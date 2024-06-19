@@ -45,7 +45,7 @@ Sokoban est un jeu vidéo de réflexion classique dans lequel le joueur incarne 
 
 1. Aller dans la branche game
 2. Lancer le fichier sokoban.py
-3. Utiliser les touches Z,Q,S,D pour dépllacer le joueur.
+3. Utiliser les touches Z,Q,S,D pour déplacer le joueur.
 
 ### Automatisation
 
