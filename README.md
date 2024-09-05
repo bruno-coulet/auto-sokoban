@@ -1,4 +1,3 @@
-# auto-sokoban# Lingua Franca
 # Jeu Sokoban avec résolution automatique
 
 ## Table des matières
